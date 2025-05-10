@@ -52,16 +52,6 @@ const oscar = {
 - 📱 Created responsive web interfaces with React and Bootstrap
 - 📊 Integrated telematics data for Progressive's Snapshot program
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oscar-moreno-42&show_icons=true&theme=tokyonight" alt="Oscar's GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oscar-moreno-42&theme=tokyonight" alt="Oscar's GitHub Streak" />
-</div>
-
 ## 🌱 Current Focus
 
 - Exploring advancements in AI-driven healthcare solutions
